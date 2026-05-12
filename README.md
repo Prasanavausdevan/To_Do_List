@@ -104,7 +104,8 @@ document.getElementById("taskInput").value = "";
 ```
 
 ## OUTPUT
-<img width="1360" height="680" alt="image" src="https://github.com/user-attachments/assets/07e2a1b2-9d79-4242-baf8-ba68d31e7dc4" />
+<img width="1360" height="680" alt="image" src="https://github.com/user-attachments/assets/c021f640-0ee2-4bdb-bcff-938458562ea7" />
+
 
 
 ## RESULT
